@@ -12,6 +12,8 @@ Minimum Requirements:
 4. Sort the cards.
 ```
 
+![deck of cards](card-deck.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
