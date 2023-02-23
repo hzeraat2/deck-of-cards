@@ -17,7 +17,7 @@ const CardDeck = () => {
                 const card = {
                     rank: rank,
                     suit: suit,
-                    imgUrl: require(`../cards-assets/${rank}${suit}.svg`),
+                    imgUrl: require(`../../cards-assets/${rank}${suit}.svg`),
                 };
                 deck.push(card);
             }
